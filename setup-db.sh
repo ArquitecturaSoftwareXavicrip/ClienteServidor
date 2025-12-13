@@ -141,3 +141,6 @@ echo -e "2. Ejecuta: ./run.sh"
 echo -e "3. Abre: http://localhost:8000/index.php"
 echo ""
 
+
+
+
